@@ -10,7 +10,7 @@
     чем стили в медиазапросе предпочтений пользователя
   */
   --bg-color: #000028;
-  --bg-image: url(../images/cover-image-dark.png);
+  --bg-image: url('../images/cover-image-dark.png');
   --accent-color: #FF0070;
   --decor-color: #FF0070;
   --but-color: #FF0070;
