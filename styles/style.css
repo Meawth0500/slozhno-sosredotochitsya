@@ -18,7 +18,7 @@
 .header {
   padding-block-start: 75px;
   padding-block-end: 66px;
-  height: 100vh;
+  /* height: 100vh; убрал смещение блока навигации вниз*/ 
   min-height: 668px;
   display: flex;
   flex-direction: column;
@@ -249,7 +249,7 @@
   }
 
   .header {
-    padding-block-start: 194px;
+    /* padding-block-start: 194px; убрал смещение блока навигации вниз*/
     padding-block-end: 183px;
     min-height: 1024px;
   }
